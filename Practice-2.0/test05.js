@@ -16,7 +16,7 @@ function longestWord(str) {
       word += str[i];
     }
   }
-
+  
   console.log(longest);
   
 }
