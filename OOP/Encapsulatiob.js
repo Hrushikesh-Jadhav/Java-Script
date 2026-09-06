@@ -14,5 +14,9 @@ class Car {
 
 let myCar = new Car("Ford");
 console.log(myCar.brand);
+
 myCar.brand = "BMW";
 console.log(myCar.brand);
+
+
+
